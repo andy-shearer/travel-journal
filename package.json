@@ -1,5 +1,5 @@
 {
-  "name": "Travel Journal",
+  "name": "interrail-22-travel-journal",
   "description": "This project is a travel journal site that was built using React, summarising the places that I visited when interrailing in early 2022.",
   "version": "1.0.0",
   "main": "index.js",
