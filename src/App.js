@@ -2,6 +2,7 @@ import React from "react"
 import Header from "./components/Header"
 import Stop from "./components/Stop"
 import data from "./data.js"
+import "./style.css"
 
 export default function App() {
     const locations = data.map(item => {
