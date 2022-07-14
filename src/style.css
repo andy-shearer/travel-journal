@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
-    font-size: 10px
+    font-size: 1rem;
 }
 
 .header {
@@ -47,8 +47,7 @@ body {
 .loc-image {
     border-radius: 10px;
     object-fit: cover;
-    width: 120px;
-    height: 150px;
+    height: 20vh;
 }
 
 .detail-container {
@@ -82,4 +81,16 @@ body {
 .location-link {
     color: #918E9B;
     margin-left: 10px;
+}
+
+@media only screen and (max-width: 915px) {
+  .location-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+  }
+
+  .detail-subheading {
+    font-size: .8rem;
+  }
 }

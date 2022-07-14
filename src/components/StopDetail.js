@@ -3,7 +3,7 @@ import React from "react"
 export default function StopDetail(props) {
     return (
         <section className="detail-container">
-            <div>
+            <div className="location-container">
                 <i className="fa-solid fa-location-dot location-marker">&nbsp;{props.location}</i>
                 <a className="location-link" href={props.googleMapsUrl}>View on Google Maps</a>
             </div>
