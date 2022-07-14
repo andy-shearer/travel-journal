@@ -8,7 +8,7 @@ I worked on this project to practice the React concepts that were covered in sec
 of the course. The code was written within the Scrimba environment and is really easy to check it
 in your own browser here: https://scrimba.com/scrim/coa5049889821203f4aa9d847
 
-<img alt="Screenshot of the travel journal site that I created using React" src="./images/journal.png">
+<img alt="Screenshot of the travel journal site that I created using React" src="./public/images/journal.png">
 
 ## Supporting Scrimba
 
